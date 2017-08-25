@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity"
+    android:elevation="0dp"
+    app:elevation="0dp" >
+
+    <item android:id="@+id/insert_new"
+        android:title="@string/insert_new"
+        app:showAsAction="collapseActionView"/>
+
+    <item android:id="@+id/action_export_tabel"
+        android:title="@string/table_save"
+        app:showAsAction="collapseActionView" />
+
+    <item android:id="@+id/settings"
+        android:title="@string/settings"
+        app:showAsAction="collapseActionView"/>
+
+    <item android:id="@+id/about"
+        android:title="@string/about" />
+
+</menu>

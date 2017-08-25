@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Permata 2017</string>
+    <string name="regist_tab">Daftar</string>
+    <string name="sms_tab">SMS Manual</string>
+    <string name="sms_hint">Isi pesan</string>
+    <string name="sms_send_button">Kirim</string>
+    <string name="input_no_hint">Masukkan no pendaftaran</string>
+    <string name="find_button">Cari</string>
+    <string name="invalid_numb_text">No pendaftaran tidak ditemukan</string>
+    <string name="name_text">Nama</string>
+    <string name="no_text">No</string>
+    <string name="payment_text">Pembayaran</string>
+    <string name="school_text">Sekolah</string>
+    <string name="hp_text">No HP</string>
+    <string name="pay_done">Sudah bayar</string>
+    <string name="pay_notyet">Belum bayar</string>
+    <string name="confirm_send">Kirim Konfirmasi</string>
+    <string name="insert_new">Daftar Baru</string>
+    <string name="table_save">Simpan Tabel</string>
+    <string name="settings">Pengaturan</string>
+    <string name="choose_sim">SIM digunakan (ID SIM)</string>
+    <string name="payment_link">Link Pembayaran</string>
+    <string name="ticket_link">Link Tiket</string>
+    <string name="list_sim">SIM ID yang ada:</string>
+    <string name="about">Tentang</string>
+    <string name="awal_db">Awal No Pendaftaran (SMS)</string>
+    <string name="hp_hint">No diawali +62xx</string>
+    <string-array name="SIM">
+        <item>Pilihan 1</item>
+        <item>Pilihan 2</item>
+    </string-array>
+</resources>
